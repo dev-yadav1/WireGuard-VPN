@@ -24,9 +24,6 @@ Client → WireGuard Tunnel → Gateway Host → Internet
 4. Apply routing and NAT rules
 5. Start the WireGuard interface
 
-## Screenshots
-Add screenshots here
-
 ## Security Notes
 - Keys are generated locally and never committed
 - Firewall rules restrict unwanted access
